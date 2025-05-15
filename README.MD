@@ -1,15 +1,10 @@
-
-
-DIO - Code The Future 🔴 LIVE CODE
-
-preview do podcast
-
 Projeto Podcast Gerado por I.A.s
-ℹ️ NOTE: Este é o repositório desenvolvido durante uma live no Youtube em parceria com a DIO
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+ℹ️ NOTE: Este é o repositório desenvolvido durante o Curso: Microsoft 50 Anos - Prompts Inteligentes em parceria com a DIO
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts.
+
+Utilizando uma esteira de prompts para gerar cada etapa do processo criativo.
 
 💻 Tecnologias utilizadas no projeto
 Copilot
